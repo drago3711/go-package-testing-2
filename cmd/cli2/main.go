@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/drago3711/go-package-testing-1/pkg/bar"
+	"github.com/drago3711/go-package-testing-2/pkg/bar"
 )
 
 func main() {
