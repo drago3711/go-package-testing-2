@@ -8,4 +8,5 @@ import (
 func main() {
 	fmt.Println("Starting cmd2")
 	bar.Print()
+	bar.PrintFoo()
 }
